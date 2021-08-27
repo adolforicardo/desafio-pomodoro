@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/adolforicardo/desafio-pomodoro-">
+  <a href="https://github.com/adolforicardo/desafio-pomodoro">
     <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -17,14 +17,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/adolforicardo/desafio-pomodoro-"><strong>Explore os documentos »</strong></a>
+    <a href="https://github.com/adolforicardo/desafio-pomodoro"><strong>Explore os documentos »</strong></a>
     <br />
     <br />
     <a href="">Ver Demo</a>
     ·
-    <a href="https://github.com/adolforicardo/desafio-pomodoro-/issues">Reportar bugs</a>
+    <a href="https://github.com/adolforicardo/desafio-pomodoro/issues">Reportar bugs</a>
     ·
-    <a href="https://github.com/adolforicardo/desafio-pomodoro-/issues">Solicitar Recurso</a>
+    <a href="https://github.com/adolforicardo/desafio-pomodoro/issues">Solicitar Recurso</a>
   </p>
 </p>
 
@@ -90,7 +90,7 @@ Porém, buscando uma maior praticidade para a avaliação, os temporizadores dev
 
 1. Clonar o repositório
    ```sh
-   git clone https://github.com/adolforicardo/desafio-pomodoro-.git
+   git clone https://github.com/adolforicardo/desafio-pomodoro.git
    ```
 2. Install NPM packages
    ```sh
@@ -115,7 +115,7 @@ Aplicativo contém:
 <!-- ROADMAP -->
 ## Roadmap
 
-Consulte os [problemas em aberto](https://github.com/adolforicardo/desafio-pomodoro-/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+Consulte os [problemas em aberto](https://github.com/adolforicardo/desafio-pomodoro/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 <!-- CONTRIBUTING -->
@@ -142,7 +142,7 @@ Distribuído sob a licença MIT. Consulte a `LICENSE` para obter mais informaç�
 
 Adolfo Ricardo - [@linkedIn](https://www.linkedin.com/in/adolfo-ricardo-82960a189/) - adolforicardo5@gmail.com
 
-Link do Projecto: [https://github.com/adolforicardo/desafio-pomodoro-.git](https://github.com/adolforicardo/desafio-pomodoro-.git)
+Link do Projecto: [https://github.com/adolforicardo/desafio-pomodoro.git](https://github.com/adolforicardo/desafio-pomodoro.git)
 
 
 
@@ -159,16 +159,16 @@ Link do Projecto: [https://github.com/adolforicardo/desafio-pomodoro-.git](https
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/adolforicardo/desafio-pomodoro-.svg
-[contributors-url]: https://github.com/adolforicardo/desafio-pomodoro-/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adolforicardo/desafio-pomodoro-.svg
-[forks-url]: https://github.com/adolforicardo/desafio-pomodoro-/network/members
-[stars-shield]: https://img.shields.io/github/stars/adolforicardo/desafio-pomodoro-.svg
-[stars-url]: https://github.com/adolforicardo/desafio-pomodoro-/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adolforicardo/desafio-pomodoro-.svg
-[issues-url]: https://github.com/adolforicardo/desafio-pomodoro-/issues
-[license-shield]: https://img.shields.io/github/license/adolforicardo/desafio-pomodoro-.svg
-[license-url]: https://github.com/adolforicardo/desafio-pomodoro-/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adolforicardo/desafio-pomodoro.svg
+[contributors-url]: https://github.com/adolforicardo/desafio-pomodoro/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adolforicardo/desafio-pomodoro.svg
+[forks-url]: https://github.com/adolforicardo/desafio-pomodoro/network/members
+[stars-shield]: https://img.shields.io/github/stars/adolforicardo/desafio-pomodoro.svg
+[stars-url]: https://github.com/adolforicardo/desafio-pomodoro/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adolforicardo/desafio-pomodoro.svg
+[issues-url]: https://github.com/adolforicardo/desafio-pomodoro/issues
+[license-shield]: https://img.shields.io/github/license/adolforicardo/desafio-pomodoro.svg
+[license-url]: https://github.com/adolforicardo/desafio-pomodoro/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=0A66C2
 [linkedin-url]: https://www.linkedin.com/in/adolfo-ricardo-82960a189
 [product-screenshot]: src/assets/tela.png
