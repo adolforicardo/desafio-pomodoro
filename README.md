@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Construído com
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Desafio Pomodoro][product-screenshot]](https://desafio-pomodoro-adolforicardo.herokuapp.com/)
 
 A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido porFrancesco Cirillo no final dos anos 1980. A técnica usa um cronômetro para dividir o trabalho em intervalos, tradicionalmente de 25 minutos de duração, separados por intervalos curtos - 5 minutos.
 Porém, buscando uma maior praticidade para a avaliação, os temporizadores deverão estar em segundos e não em minutos. Ou seja, os 25 minutos de duração deverão ser 25 segundos e os 5 minutos de intervalo deverão ser 5 segundos.
